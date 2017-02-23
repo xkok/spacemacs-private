@@ -32,7 +32,7 @@ values."
    dotspacemacs-configuration-layers
    '(
      ;; ----------------------------------------------------------------
-     ;; Example of useful layers you may want to use right away.
+     ;; Example of useful layers you may want to use right aerror: Package ‘package-build-’ is unavailabway.
      ;; Uncomment some layer names and press <SPC f e R> (Vim style) or
      ;; <M-m f e R> (Emacs style) to install them.
      ;; ----------------------------------------------------------------
